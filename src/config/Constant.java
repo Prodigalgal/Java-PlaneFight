@@ -60,8 +60,8 @@ public class Constant {
     public final static int CorruptorSpeed = 20;
     public final static int MutaliskSpeed = 10;
 
-    public final static int SEUNLockLocation = 0;
-    public final static int SELockLocation = 1;
+    public final static int SEUNLockLocation = 0;//特效不锁定坐标
+    public final static int SELockLocation = 1;//特效锁定坐标
 
     public static int once = 0;//启动一次游戏，只看一次过场动画
 

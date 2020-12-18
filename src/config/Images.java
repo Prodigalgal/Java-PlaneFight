@@ -68,10 +68,6 @@ public class Images {
     public static Image PlayerHit;
     public static Image HPse;
 
-
-
-
-
     //´æ·ÅËùÓĞÍ¼Æ¬
     static {
         try {
