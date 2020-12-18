@@ -75,66 +75,66 @@ public class Images {
     //¥Ê∑≈À˘”–Õº∆¨
     static {
         try {
-            BackGround1 = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\12343.jpg"));
-            BackGround2 = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\12343.jpg"));
-            FirstPanel = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\FPBG.jpg"));
-            loginButton = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\Button.png"));
-            reButton = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\Button2.png"));
-            readyBackGround = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\readyBackGround.png"));
-            T = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\T.png"));
-            Z = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\Z.png"));
-            P = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\P.png"));
-            Back = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\back.png"));
-            FlyStar = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\FlyStar.png"));
-            damageB = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\damageButton.png"));
-            AddHp = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\AddHP.png"));
-            HpB = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\hpButton.png"));
-            speedB = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\speedButton.png"));
-            storeBack = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\storeBack.png"));
-            storeBackground = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\lable3.jpg"));
-            storeB = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\storeButton.png"));
-            BulletSP = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\BulletSP.png"));
+            BackGround1 = ImageIO.read(new File("src/source/images/12343.jpg"));
+            BackGround2 = ImageIO.read(new File("src/source/images/12343.jpg"));
+            FirstPanel = ImageIO.read(new File("src/source/images/FPBG.jpg"));
+            loginButton = ImageIO.read(new File("src/source/images/Button.png"));
+            reButton = ImageIO.read(new File("src/source/images/Button2.png"));
+            readyBackGround = ImageIO.read(new File("src/source/images/readyBackGround.png"));
+            T = ImageIO.read(new File("src/source/images/T.png"));
+            Z = ImageIO.read(new File("src/source/images/Z.png"));
+            P = ImageIO.read(new File("src/source/images/P.png"));
+            Back = ImageIO.read(new File("src/source/images/back.png"));
+            FlyStar = ImageIO.read(new File("src/source/images/FlyStar.png"));
+            damageB = ImageIO.read(new File("src/source/images/damageButton.png"));
+            AddHp = ImageIO.read(new File("src/source/images/AddHP.png"));
+            HpB = ImageIO.read(new File("src/source/images/hpButton.png"));
+            speedB = ImageIO.read(new File("src/source/images/speedButton.png"));
+            storeBack = ImageIO.read(new File("src/source/images/storeBack.png"));
+            storeBackground = ImageIO.read(new File("src/source/images/lable3.jpg"));
+            storeB = ImageIO.read(new File("src/source/images/storeButton.png"));
+            BulletSP = ImageIO.read(new File("src/source/images/BulletSP.png"));
 
-            Boom = Toolkit.getDefaultToolkit().getImage("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\boom.gif");
-            PlayerHit = Toolkit.getDefaultToolkit().getImage("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\Player.gif");
-            HPse = Toolkit.getDefaultToolkit().getImage("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\HPse.gif");
+            Boom = Toolkit.getDefaultToolkit().getImage("src/source/images/boom.gif");
+            PlayerHit = Toolkit.getDefaultToolkit().getImage("src/source/images/Player.gif");
+            HPse = Toolkit.getDefaultToolkit().getImage("src/source/images/HPse.gif");
 
-            labelT = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\labelT.jpg"));
-            labelZ = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\labelZ.jpg"));
-            labelP = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\labelP.jpg"));
+            labelT = ImageIO.read(new File("src/source/images/labelT.jpg"));
+            labelZ = ImageIO.read(new File("src/source/images/labelZ.jpg"));
+            labelP = ImageIO.read(new File("src/source/images/labelP.jpg"));
 
-            Viking = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\Viking.png"));
-            VikingFace = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\VikingFace.png"));
-            VikingBullet = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\VikingBullet.png"));
+            Viking = ImageIO.read(new File("src/source/images/Viking.png"));
+            VikingFace = ImageIO.read(new File("src/source/images/VikingFace.png"));
+            VikingBullet = ImageIO.read(new File("src/source/images/VikingBullet.png"));
 
-            Battlecruiser = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\Battlecruiser.png"));
-            BattlecruiserFace = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\BattlecruiserFace.png"));
-            BattlecruiserBullet = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\BattlecruiserBullet.png"));
-            BattlecruiserBulletFace = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\BattlecruiserBulletFace.png"));
+            Battlecruiser = ImageIO.read(new File("src/source/images/Battlecruiser.png"));
+            BattlecruiserFace = ImageIO.read(new File("src/source/images/BattlecruiserFace.png"));
+            BattlecruiserBullet = ImageIO.read(new File("src/source/images/BattlecruiserBullet.png"));
+            BattlecruiserBulletFace = ImageIO.read(new File("src/source/images/BattlecruiserBulletFace.png"));
 
-            Mutalisk = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\Mutalisk.png"));
-            MutaliskFace = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\MutaliskFace.png"));
-            MutaliskBullet = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\MutaliskBullet.png"));
-            MutaliskBulletFace = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\MutaliskBulletFace.png"));
+            Mutalisk = ImageIO.read(new File("src/source/images/Mutalisk.png"));
+            MutaliskFace = ImageIO.read(new File("src/source/images/MutaliskFace.png"));
+            MutaliskBullet = ImageIO.read(new File("src/source/images/MutaliskBullet.png"));
+            MutaliskBulletFace = ImageIO.read(new File("src/source/images/MutaliskBulletFace.png"));
 
-            Mothership = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\Mothership.png"));
+            Mothership = ImageIO.read(new File("src/source/images/Mothership.png"));
 
-            Phoenix = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\Phoenix.png"));
-            PhoenixFace = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\PhoenixFace.png"));
-            PhoenixBullet = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\PhoenixBullet.png"));
+            Phoenix = ImageIO.read(new File("src/source/images/Phoenix.png"));
+            PhoenixFace = ImageIO.read(new File("src/source/images/PhoenixFace.png"));
+            PhoenixBullet = ImageIO.read(new File("src/source/images/PhoenixBullet.png"));
 
-            Tempest = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\Tempest.png"));
-            TempestFace = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\TempestFace.png"));
-            TempestBullet = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\TempestBullet.png"));
-            TempestBulletFace = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\TempestBulletFace.png"));
+            Tempest = ImageIO.read(new File("src/source/images/Tempest.png"));
+            TempestFace = ImageIO.read(new File("src/source/images/TempestFace.png"));
+            TempestBullet = ImageIO.read(new File("src/source/images/TempestBullet.png"));
+            TempestBulletFace = ImageIO.read(new File("src/source/images/TempestBulletFace.png"));
 
-            Corruptor = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\Corruptor.png"));
-            CorruptorFace = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\CorruptorFace.png"));
-            CorruptorBullet = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\CorruptorBullet.png"));
-            CorruptorBulletFace = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\CorruptorBulletFace.png"));
+            Corruptor = ImageIO.read(new File("src/source/images/Corruptor.png"));
+            CorruptorFace = ImageIO.read(new File("src/source/images/CorruptorFace.png"));
+            CorruptorBullet = ImageIO.read(new File("src/source/images/CorruptorBullet.png"));
+            CorruptorBulletFace = ImageIO.read(new File("src/source/images/CorruptorBulletFace.png"));
 
-            DamagePromote = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\DamagePromote.jpg"));
-            SpeedUp = ImageIO.read(new File("D:\\CodeWork\\Java\\SC2PlaneFight\\src\\source\\images\\SpeedUp.png"));
+            DamagePromote = ImageIO.read(new File("src/source/images/DamagePromote.jpg"));
+            SpeedUp = ImageIO.read(new File("src/source/images/SpeedUp.png"));
 
         } catch (IOException e) {
             e.printStackTrace();
